@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "foto.png"
+  avatar           : "profile.png"
   name             : "Carlos Vasconez"
   pronouns         : # example: "she/her"  
   bio              : "Master's student in AI, skilled in tools for data analysis and AI"
