@@ -21,13 +21,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "foto.png"
   name             : "Carlos Vasconez"
   pronouns         : # example: "she/her"  
-  bio              : "Master's student in AI, experienced in retail, tech recruitment, and health insurance, based in Canada. Skilled in Python for AI and data analysis, eager to advance in AI"
+  bio              : "Master's student in AI, skilled in tools for data analysis and AI"
   location         : "Mississauga, Ontario"
   #employer         : "Red Brick University"
-  uri              : # URL
+  uri              : "https://carvas91.github.io/carlosportfolio.github.io/"
   email            : "carvas91@hotmail.com" 
 
   # Academic websites
@@ -47,7 +47,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
