@@ -13,7 +13,7 @@ redirect_from:
 
 📘 I’m dedicated to constant learning and applying my combined academic and self-taught skills to tackle real-world problems.
 
-🤝 If you're interested in my mix of formal education and proactive learning, let’s connect. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/vasconezswett/) or [email](carvas91@hotmail.com) me about any projects or opportunities where my passion for AI and data could be of use.
+🤝 If you're interested in my mix of formal education and proactive learning, let’s connect. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/vasconezswett/) or [Email me](mailto:carvas91@hotmail.com) about any projects or opportunities where my passion for AI and data could be of use.
 
 A data-driven personal website
 ======
