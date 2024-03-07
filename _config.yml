@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Carlos Porfolio XXXX"
+title                    : "Carlos' Porfolio"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,27 +22,27 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Carlos Vasconez XXXXX"
+  name             : "Carlos Vasconez"
   pronouns         : # example: "she/her"  
-  bio              : "Final semester Master's student in Artificial Intelligence with diverse experience across retail, tech recruitment, and health insurance, currently based in Canada. Expertise in Python for AI and data analysis, passionate about advancing in the AI field."
-  location         : "Mississauga, Ontario CCC"
-  employer         : "Red Brick University"
+  bio              : "Master's student in AI, experienced in retail, tech recruitment, and health insurance, based in Canada. Skilled in Python for AI and data analysis, eager to advance in AI"
+  location         : "Mississauga, Ontario"
+  #employer         : "Red Brick University"
   uri              : # URL
   email            : "carvas91@hotmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  #googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #orcid            : "http://orcid.org/yourorcidurl"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "Carvas91"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
