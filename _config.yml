@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Carlos Porfolio"
+title                    : "Carlos Porfolio XXXX"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "foto.jpg"
-  name             : "Carlos Vasconez"
+  name             : "Carlos Vasconez XXXXX"
   pronouns         : # example: "she/her"  
   bio              : "Final semester Master's student in Artificial Intelligence with diverse experience across retail, tech recruitment, and health insurance, currently based in Canada. Expertise in Python for AI and data analysis, passionate about advancing in the AI field."
-  location         : "Mississauga, Ontario"
+  location         : "Mississauga, Ontario CCC"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "carvas91@hotmail.com" 
