@@ -12,7 +12,7 @@ title                    : "Carlos' Porfolio"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://carvas91.github.io/carlosportfolio.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -27,7 +27,7 @@ author:
   bio              : "Master's student in AI, skilled in tools for data analysis and AI"
   location         : "Mississauga, Ontario"
   #employer         : "Red Brick University"
-  uri              : "https://carvas91.github.io/carlosportfolio.github.io/"
+  #uri              : "https://carvas91.github.io/carlosportfolio.github.io/"
   email            : "carvas91@hotmail.com" 
 
   # Academic websites
