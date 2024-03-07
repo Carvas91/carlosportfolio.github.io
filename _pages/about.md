@@ -9,11 +9,11 @@ redirect_from:
 
 🎓 Hi, I'm nearing the end of my AI Master's program and also about to finish my Business Analytics program at Lambton College in Mississauga.
 
-👨‍💻 My academic path has built a strong foundation, and on my own, I’ve developed proficiency in key tools for Data Analysis and AI. I'm skilled with Python and its libraries, such as Pandas, NumPy, and Scikit Learn, and also familiar with Power BI, SQL, GitHub, and Google Colab.
+👨‍💻 I've built a strong foundation through formal education, but I didn't stop there. Teaching myself has been one of my biggest strengths. I've gotten really good with Python and essential libraries like Pandas, NumPy, OpenCV and Scikit Learn. I've also gotten hands-on with tools like Power BI, SQL, GitHub, and Google Colab.
 
-📘 I’m dedicated to constant learning and applying my combined academic and self-taught skills to tackle real-world problems.
+📘 Committed to lifelong learning and applying my skills to tackle real-world problems.
 
-🤝 If you're interested in my mix of formal education and proactive learning, let’s connect. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/vasconezswett/) or [Email me](mailto:carvas91@hotmail.com) about any projects or opportunities where my passion for AI and data could be of use.
+🤝 If you're on the lookout for someone who blends school smarts with self-taught know-how, I'm your guy. Don't be shy and feel free to reach out on [LinkedIn](https://www.linkedin.com/in/vasconezswett/) or [email me](mailto:carvas91@hotmail.com) about any projects or opportunities.
 
 A data-driven personal website
 ======
