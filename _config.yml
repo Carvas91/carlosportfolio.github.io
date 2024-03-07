@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Carlos Porfolio"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "foto.jpg"
+  name             : "Carlos Vasconez"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Final semester Master's student in Artificial Intelligence with diverse experience across retail, tech recruitment, and health insurance, currently based in Canada. Expertise in Python for AI and data analysis, passionate about advancing in the AI field."
+  location         : "Mississauga, Ontario"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "carvas91@hotmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
