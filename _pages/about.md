@@ -22,6 +22,8 @@ This is what I can do for your company
 - **Image Processing**: For image processing tasks, I use OpenCV to perform operations ranging from object detection to image enhancement.
 - **Database Management**: I efficiently retrieve and manipulate database information using SQL, ensuring data integrity and accessibility.
 - **Web Scraping**: My web scraping skills with BeautifulSoup enable me to extract valuable data from websites, providing a rich source of information for analysis.
+![dilbert](images/dilbert.png)
+
 
 Getting started
 ======
