@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Brampton Clustered Businesses Interactive Map"
+excerpt: "The 'Brampton Clustered Businesses Map' condenses the city's commercial directory into an interactive map using Python, highlighting proximity and details with a click<br/><img src='/images/map.png'>"
 collection: portfolio
 ---
 
