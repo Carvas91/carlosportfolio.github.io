@@ -1,7 +1,6 @@
 ---
 title: "Brampton Clustered Businesses Interactive MapXXXXXX"
-excerpt: "The 'Brampton Clustered Businesses Map' condenses the city's commercial directory into an interactive map using Python, highlighting proximity and details with a click" 
-![map](images/map.png)
+excerpt: "The 'Brampton Clustered Businesses Map' condenses the city's commercial directory into an interactive map using Python, highlighting proximity and details with a click<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
