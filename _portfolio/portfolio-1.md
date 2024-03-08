@@ -1,6 +1,6 @@
 ---
 title: "Brampton Clustered Businesses Interactive Map"
-excerpt: "The 'Brampton Clustered Businesses Map' condenses the city's commercial directory into an interactive map using Python, highlighting proximity and details with a click <br/><img src='Carvas91/carlosportfolio.github.io/images/map.png'>"
+excerpt: "The 'Brampton Clustered Businesses Map' condenses the city's commercial directory into an interactive map using Python, highlighting proximity and details with a click" <br/><img src='Carvas91/carlosportfolio.github.io/images/map.png'>
 collection: portfolio
 ---
 
