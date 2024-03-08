@@ -21,7 +21,7 @@ repository               : "https://github.com/Carvas91/carlosportfolio.github.i
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile1.png"
+  avatar           : "map.png"
   name             : "Carlos Vasconez"
   pronouns         : # example: "she/her"  
   bio              : "Master's student in AI, skilled in tools for data analysis and AI 🤖"
