@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. websites, providing a rich source of information for analysis. 
-[See Interactive Map](portfolio/brampton_business_map.html)
+[See Interactive Map](https://github.com/Carvas91/carvas91.github.io/blob/master/_portfolio/brampton_business_map.html)
 
 
 ![dilbert](images/dilbert.png)
