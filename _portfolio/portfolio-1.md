@@ -4,7 +4,13 @@ excerpt: "This project was built in Python and it condenses the Brampton's comme
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. websites, providing a rich source of information for analysisxxx. 
+I began with the business directory from the Brampton city website, which was in an Excel file. This file had information such as business names, addresses, phone numbers, and their geographic coordinates (longitude and latitude). The first thing I did was clean up this data with Python to make sure it was accurate and ready to use.
+
+Next, I needed to make the geographic coordinates work for my project, so I converted them into a format that let me calculate how far each business was from a central point — the Specsavers location where I used to work.
+
+I chose to use a Python library called 'folium' to create the map. Folium is great for making interactive maps that can show how things are grouped by location. With folium, I put the businesses on the map in such a way that they form clusters based on how close they are to each other. You can click on any cluster to get information about the businesses inside it.
+
+Finally, the Python script I wrote takes all this information and puts it into an HTML file. This file is the interactive map that anyone can use to explore the businesses in Brampton. 
 [See Interactive Map](../_portfolio/brampton_business_map.html)
 
 
