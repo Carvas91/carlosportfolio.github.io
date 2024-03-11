@@ -1,6 +1,6 @@
 ---
 title: "Data Analisis"
-excerpt: "Short description of portfolio item number 2 <br/><img src='../images/dilbert.png'>"
+excerpt: "In this data analysis project, I scrutinized the 'taxis' dataset from Seaborn to understand taxi trip dynamics <br/><img src='../images/rsz_1taxi.png'>"
 collection: portfolio
 ---
 
