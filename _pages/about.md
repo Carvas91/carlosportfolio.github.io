@@ -20,6 +20,7 @@ This is what I can do for your company
 - **Data Analysis and Visualization**: I can analyze data and craft visualizations with Power BI, Excel, or Python, making complex datasets understandable and actionable.
 - **Predictive Modeling**: I'm capable of building predictive models, such as linear regression, clustering, and support vector machines, utilizing Python and Scikit-learn to uncover trends and inform decisions.
 - **Image Processing**: For image processing tasks, I use OpenCV to perform operations ranging from object detection to image enhancement.
+- **Natural Language Processing**: Skilled in using spaCy, NLTK, and TextBlob for text processing to gain insights, such as analyzing comments for sentiment analysis. 
 - **Database Management**: I efficiently retrieve and manipulate database information using SQL, ensuring data integrity and accessibility.
 - **Web Scraping**: My web scraping skills with BeautifulSoup enable me to extract valuable data from websites, providing a rich source of information for analysis.
 ![dilbert](images/dilbert.png)
