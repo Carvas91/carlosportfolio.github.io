@@ -8,5 +8,5 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 [See Interactive Map](brampton_business_map.html)
 
 
-![dilbert](images/dilbert.png)
+![dilbert](../images/dilbert.png)
 
