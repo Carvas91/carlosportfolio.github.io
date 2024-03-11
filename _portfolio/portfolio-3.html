@@ -4,5 +4,13 @@ excerpt: "This project showcases image processing techniques using Python and Op
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
-[GitHub image prject](https://github.com/Carvas91/Carlos_Vasconez_portfolio/blob/main/Image_processing_Xray_fingerPrint.ipynb)
+I began by loading a grayscale fingerprint image and then inverted the colors to 
+make the fingerprint stand out against the background. I applied morphological 
+operations to the inverted image: erosion to strip away small bits of noise, 
+dilation to emphasize the main features of the fingerprint, opening to smooth 
+out the interior structures, and closing to fill in any small gaps. I followed a 
+similar approach with a dental X-ray image, starting with a smoothing filter to 
+reduce image noise. I then used several edge detection methods, such as Sobel, 
+Roberts, Prewitt, and Canny, to draw out the structural details of the images. 
+Each technique was chosen for its particular way of highlighting different aspects 
+of the image edges.
