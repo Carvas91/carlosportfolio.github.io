@@ -1,6 +1,6 @@
 ---
 title: "Data Analisis"
-excerpt: "Short description of portfolio item number 2 <br/><img src='../images/rsz_1im_process.png'>"
+excerpt: "Short description of portfolio item number 2 <br/><img src='../images/dilbert.png'>"
 collection: portfolio
 ---
 
