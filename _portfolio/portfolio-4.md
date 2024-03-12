@@ -1,6 +1,6 @@
 ---
 title: "Web Scraping and sentiment analysis"
-excerpt: "This project was built in Python and it condenses the Brampton's commercial directory into an interactive map, highlighting proximity and details with a click<br/><img src='/images/rsz_map.png'>"
+excerpt: "Using Python I web scraped Google reviews from the Lambton College review page then conducted senttiment analysis to asses weather the stars rating alligned with the overall sentiment of the comments.<br/><img src='/images/rsz_1sentiment.png'>"
 collection: portfolio
 ---
 
