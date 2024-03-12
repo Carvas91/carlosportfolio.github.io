@@ -13,6 +13,3 @@ I chose to use a Python library called 'folium' to create the map. Folium is gre
 Finally, the Python script I wrote takes all this information and puts it into an HTML file. This file is the interactive map that anyone can use to explore the businesses in Brampton. 
 [See Interactive Map](../_portfolio/brampton_business_map.html)
 
-
-![dilbert](../images/dilbert.png)
-
