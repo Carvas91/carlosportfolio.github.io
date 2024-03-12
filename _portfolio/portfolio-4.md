@@ -1,5 +1,5 @@
 ---
-title: "Web Scraping and sentiment analysis"
+title: "Web Scraping and Sentiment Analysis"
 excerpt: "Using Python I web scraped Google reviews from the Lambton College review page then conducted senttiment analysis to asses weather the stars rating alligned with the overall sentiment of the comments.<br/><img src='/images/rsz_1sentiment.png'>"
 collection: portfolio
 ---
