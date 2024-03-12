@@ -11,6 +11,6 @@ Next, I needed to make the geographic coordinates work for my project, so I conv
 I chose to use a Python library called 'folium' to create the map. Folium is great for making interactive maps that can show how things are grouped by location. With folium, I put the businesses on the map in such a way that they form clusters based on how close they are to each other. You can click on any cluster to get information about the businesses inside it.
 
 Finally, the Python script I wrote takes all this information and puts it into an HTML file. This file is the interactive map that anyone can use to explore the businesses in Brampton. 
-[See Interactive Map](/portfolio/brampton_business_map.html)[Check the code](https://github.com/Carvas91/Carlos_Vasconez_portfolio/tree/main/Brampton_Interactive_map)
+[See Interactive Map](/portfolio/brampton_business_map.html)[ Check the code](https://github.com/Carvas91/Carlos_Vasconez_portfolio/tree/main/Brampton_Interactive_map)
 
 
