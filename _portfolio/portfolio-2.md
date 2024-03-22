@@ -1,5 +1,5 @@
 ---
-title: "Data Analisis"
+title: "Data Analysis"
 excerpt: "In this data analysis project, I scrutinized the 'taxis' dataset from Seaborn to understand taxi trip dynamics <br/><img src='../images/rsz_1taxi.png'>"
 collection: portfolio
 ---
