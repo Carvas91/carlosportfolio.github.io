@@ -1,0 +1,6 @@
+---
+title: "Automated Decluttering Script"
+excerpt: "This project was initiated from a simple realization during a routine check in PowerShell: my Downloads folder was cluttered with an overwhelming number of files. Manually sorting and deleting these files seemed like a daunting task, so I turned to Python and automation to streamline the process..<br/><img src='/images/rsz_1sentiment.png'>"
+collection: portfolio
+---
+In this project, I employed Selenium WebDriver for web scraping Google reviews for Lambton College's review page. I iteratively scrolled through the page to load all comments, extracted the relevant review data—names, comments, and star ratings—and saved it into a DataFrame. I then conducted sentiment analysis using NLTK's VADER tool to evaluate the sentiment of the review comments, which allowed me to compare them against the star ratings to assess their consistency. The process involved normalizing the text, handling emojis, and calculating sentiment scores to ensure a thorough analysis.[Check the code](https://github.com/Carvas91/Carlos_Vasconez_portfolio/tree/main/sentiment_analysis)
