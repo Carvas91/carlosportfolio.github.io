@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-🎓 Hi, I'm nearing the end of my AI Master's program and also about to finish my Business Analytics program at Lambton College in Mississauga.
+🎓 I'm a Business Analytics program graduate from Lambton College in Mississauga and am now nearing the end of my AI Master's program, with my thesis defense on the horizon. My thesis is titled "Comparison of Machine Learning Techniques for Predicting BMI in the Ecuadorian Population Using Sociodemographic Variables."
 
-👨‍💻 I've built a strong foundation through formal education, but I didn't stop there. Teaching myself has been one of my biggest strengths. I've gotten really good with Python and essential libraries like Pandas, NumPy, OpenCV and Scikit Learn. I've also gotten hands-on with tools like Power BI, SQL, GitHub, and Google Colab.
+👨‍💻 I've built a strong foundation through formal education, but I didn't stop there. Teaching myself has been one of my biggest strengths. I've gotten really good with Python and essential libraries like Pandas, NumPy, OpenCV and Scikit Learn, Keras, TensorFlow,  Pytorch. I've also gotten hands-on with tools like Power BI, SQL, GitHub, VSCode and Google Colab.
 
 📘 Committed to lifelong learning and applying my skills to tackle real-world problems.
 
