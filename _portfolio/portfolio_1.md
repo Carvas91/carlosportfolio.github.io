@@ -4,7 +4,7 @@ excerpt: "This project was built in Python and it condenses the Brampton's comme
 collection: portfolio
 ---
 
-This is a machine learning web application that predicts obesity levels based on user input using a pre-trained model. The app uses FastAPI for the backend and is designed to take multiple user inputs related to health and lifestyle to classify obesity levels.
+This project is a Python-based obesity level prediction app using a Random Forest model built with scikit-learn. The pipeline was managed using DVC, and the app was deployed on Render Cloud using FastAPI for the backend. The model predicts obesity levels based on various health and lifestyle inputs.
 
 [Check the code](https://github.com/Carvas91/Obesity_prediction/)
 [Try the app](https://obesity-prediction-fmsx.onrender.com/)
