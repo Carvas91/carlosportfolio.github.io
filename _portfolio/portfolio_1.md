@@ -1,6 +1,6 @@
 ---
 title: "End-to-end MLOps project"
-excerpt: "This project was built in Python and it condenses the Brampton's commercial directory into an interactive map, highlighting proximity and details with a click<br/><img src='/images/Obesity_pred.png'>"
+excerpt: "This MLOps project predicts obesity levels using a Random Forest model with scikit-learn, managed by DVC for pipeline automation. The app is deployed on Render Cloud with FastAPI for user interaction.<br/><img src='/images/Obesity_pred.png'>"
 collection: portfolio
 ---
 
