@@ -8,4 +8,4 @@ This is a machine learning web application that predicts obesity levels based on
 
 [Check the code](https://github.com/Carvas91/Obesity_prediction/)
 [Try the app](https://obesity-prediction-fmsx.onrender.com/)
-![VSCode project](images/Obesity_vscode.png)
+![VSCode project](/images/Obesity_vscode.png)
